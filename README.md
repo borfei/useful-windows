@@ -1,7 +1,7 @@
 # Helpful Windows
 A set of scripts & tweaks to enhance your Windows experience!
 
-> [!IMPORTANT]]
+> [!IMPORTANT]
 > This project is meant to be used for LTSC editions of Windows.
 
 You can download the latest release [here.](https://github.com/spir0th/helpful-windows/releases/latest)
