@@ -4,7 +4,7 @@
 
 A set of scripts & tweaks to make your Windows experience!
 
-You can download the latest release [here.](https://github.com/spir0th/useful-windows/releases/latest)
+Use **Code -> Download ZIP** to download Useful Windows.
 
 ## Why?
 This repository has the stuff all you need for customizing your Windows installation without some shenanigans, from installing [WinGet](https://github.com/microsoft/winget-cli) for downloading programs without Microsoft Store and even a web browser, to disabling the pesky `gaming-overlay` link pop-up you see in LTSC editions of Windows.
