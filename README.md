@@ -2,9 +2,7 @@
 > [!IMPORTANT]
 > For the best experience of Useful Windows, use Windows 10/11 Enterprise LTSC.
 
-A set of scripts & tweaks to make your Windows experience!
-
-Use **Code -> Download ZIP** to download Useful Windows.
+Download it [here!](https://github.com/borfei/useful-windows/archive/refs/heads/main.zip)
 
 ## Why?
 This repository has the stuff all you need for customizing your Windows installation without some shenanigans, from installing [WinGet](https://github.com/microsoft/winget-cli) for downloading programs without Microsoft Store and even a web browser, to disabling the pesky `gaming-overlay` link pop-up you see in LTSC editions of Windows.
