@@ -4,12 +4,7 @@
 
 Download it [here!](https://github.com/borfei/useful-windows/archive/refs/heads/main.zip)
 
-## Why?
-This repository has the stuff all you need for customizing your Windows installation without some shenanigans, from installing [WinGet](https://github.com/microsoft/winget-cli) for downloading programs without Microsoft Store and even a web browser, to disabling the pesky `gaming-overlay` link pop-up you see in LTSC editions of Windows.
-
-*In fact, I even use this repository whenever I re-install Windows.*
-
-## Explanation
+## Structure
 Files have been organized into three places:
 - `UWPMediaCodecs`
     - Improves media playback support for UWP applications
