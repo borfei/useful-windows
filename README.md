@@ -1,23 +1,26 @@
 # Useful Windows
 > [!IMPORTANT]
-> For the best experience of Useful Windows, use Windows 10/11 Enterprise LTSC.
+> This repository is designed to work for Windows LTSC installations,
+> as regular Windows installations probably have these by default.
 
-Download it [here!](https://github.com/borfei/useful-windows/archive/refs/heads/main.zip)
+[Download Useful Windows](https://github.com/borfei/useful-windows/archive/refs/heads/main.zip)
 
 ## Structure
-Files have been organized into three places:
+Certain files have been organized into 4 categories:
 - `UWPMediaCodecs`
-    - Improves media playback support for UWP applications
-    - Recommended for users who tend to like Microsoft's UWP media apps such as Photos, or the new Media Player
+    - Fixes missing codecs / Improves media playback in UWP applications
+    - Recommended for users that prefer UWP media applications over third-parties
 - `UWPWindowsEssentials`
-    - Replaces some Win32 apps with their new respective UWP apps 
-    - Really needed if you work on a company or doing productivity
+    - Legacy Win32 applications might be replaced with their new UWP counterparts
+    - Recommended if you work on a company or doing productivity
 - `WinGetNative`
-    - It installs WinGet without Microsoft Store, useful enough for new Windows 10/11 LTSC installations.
-    - *WinGet does somehow support installation of UWP apps, so you might install this first before installing other UWP apps.*
-- `WinTweaks32`
-    - Includes restoring the functionality of Windows Photo Viewer, optimizing drives by disabling DOS filename creations, etc.
-    - Note that the registry files might cause your system to break if you have heavily changed something in the registry.
+    - Installs WinGet without the requirement of Microsoft Store, saving space for your drive
+    - Required if you tend to use the following:
+        - `UWPMediaCodecs`
+        - `UWPWindowsEssentials`
+- `Tweaks`
+    - Includes restoring the functionality of Windows Photo Viewer, disabling DOS filename creations, SSD optimizations, etc.
+    - *Be careful of modifying the registry after applying some tweaks, most of them will likely cause your system to corrupt.*
 
 ## License
 This repository is licensed under the Unlicense license, you can create an issue or make a pull request to have some features changed. 
